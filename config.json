@@ -1,0 +1,9 @@
+[
+    {
+        "OldFilePath" : "U://Test",
+        "NewFilePath" : "O://Test"
+    },
+    {
+        "log_level" : "DEBUG"
+    }
+]
